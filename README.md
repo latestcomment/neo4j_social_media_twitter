@@ -20,7 +20,7 @@ We can get our **Bearer Token** from Twitter Developer Portal.
   <img src="https://user-images.githubusercontent.com/98151352/193104761-92672b84-b680-456a-8e95-d6b7b850d259.png" />
 </p>
 
-**NOTE**: `keep the **Bearer Token** after it is generated`.
+**NOTE**: `keep the Bearer Token after it is generated`.
 
 ### 2.2. Premium v1.1: Search API
 
